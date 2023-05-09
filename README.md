@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Angel García</h1>
-<h3 align="center">Soy estudiante de Ciencias en la Universidad de Sonora</h3>
+<h3 align="center">Soy estudiante de Física</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
