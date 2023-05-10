@@ -2,8 +2,8 @@
 <h3 align="center">Soy estudiante de Física y Programador</h3>
 
 <div id="header" align="center">
-  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz.gif width="500"/>
-  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz2.gif width="500"/>
+  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz.gif width="400"/>
+  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz2.gif width="400"/>
 </div>
 
 <!--![Lorenz](https://github.com/newproyects/newproyects/blob/main/lorenz.gif)-->
