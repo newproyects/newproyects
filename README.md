@@ -1,7 +1,13 @@
 <h1 align="center">Hola soy Angel García</h1>
 <h3 align="center">Soy estudiante de Física y Programador</h3>
 
-<!----![Lorenz](https://github.com/newproyects/newproyects/raw/master/anim4.mp4)--->
+<div id="header" align="center">
+  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz.gif width="500"/>
+  <img src=https://github.com/newproyects/newproyects/blob/main/lorenz2.gif width="500"/>
+</div>
+
+<!--![Lorenz](https://github.com/newproyects/newproyects/blob/main/lorenz.gif)-->
+<!--![Lorenz2](https://github.com/newproyects/newproyects/blob/main/lorenz2.gif)-->
 
 ### Lenguajes de programación:
 ![Assembler](https://img.shields.io/badge/assemblerx86-%3776AB.svg?style=for-the-badge&logoColor=white&color=000000)
