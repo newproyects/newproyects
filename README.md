@@ -68,6 +68,8 @@
 ### Electronica y control:
 ![Pic](https://img.shields.io/badge/pic-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![Arduino](https://img.shields.io/badge/arduino-%FCC624.svg?style=for-the-badge&logo=arduino&logoColor=white&color=00979D)
+![Raspberrypi](https://img.shields.io/badge/raspberrypi-%FCC624.svg?style=for-the-badge&logo=raspberrypi&logoColor=white&color=A22846)
+![Micropython](https://img.shields.io/badge/micropython-%FCC624.svg?style=for-the-badge&logo=micropython&logoColor=white&color=2B2728)
 ![Plc](https://img.shields.io/badge/plc-%FCC624.svg?style=for-the-badge&logo=siemens&logoColor=white&color=009999)
 
 ### 🔗 Contacto:
