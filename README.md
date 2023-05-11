@@ -1,5 +1,5 @@
 <h1 align="center">Hola soy Angel García</h1>
-<h3 align="center">Soy estudiante de Física y Programador</h3>
+<h3 align="center">Soy estudiante de Física y Desarrollador de Software</h3>
 
 <div id="header" align="center">
   <img src=https://github.com/newproyects/newproyects/blob/main/lorenz.gif width="400"/>
@@ -38,6 +38,7 @@
 ![Slurm](https://img.shields.io/badge/slurm-%FCC624.svg?style=for-the-badge&logoColor=white&color=4479A1)
 ![Jupyter](https://img.shields.io/badge/jupyter-%FCC624.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
 ![Latex](https://img.shields.io/badge/latex-%FCC624.svg?style=for-the-badge&logo=latex&logoColor=white&color=008080)
+![Gnuplot](https://img.shields.io/badge/gnuplot-%7396.svg?style=for-the-badge&logoColor=white&color=734F96)
 
 ### Herramienta matemáticas y de análisis de datos:
 ![Sympy](https://img.shields.io/badge/sympy-%3776AB.svg?style=for-the-badge&logo=sympy&logoColor=white&color=3B5526)
