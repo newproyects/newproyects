@@ -1,13 +1,18 @@
-<h1 align="center">Hola soy Angel García</h1>
-<h3 align="center">Soy estudiante de Física y Desarrollador de Software</h3>
+<h2> < Hello World, I'm <a href="https://github.com/newproyects" target="_blank"> Angel García </a> /> </h2>
 
 <div id="header" align="center">
   <img src=https://github.com/newproyects/newproyects/blob/main/lorenz.gif width="400"/>
   <img src=https://github.com/newproyects/newproyects/blob/main/lorenz2.gif width="400"/>
 </div>
+  
+Soy estudiante de Licenciatura en Física en la Universidad de Sonora. También me dedico al desarrollo de software y a ayudar en áreas de investigación académica. Las áreas que más me interesan suelen ser aquellas en las que se hagan desarrollos en cuanto a teoría y matemática, o también, por el contrario, áreas en las que se usen soluciones numéricas y software de alto cómputo para problemas sin solución analítica.
 
 <!--![Lorenz](https://github.com/newproyects/newproyects/blob/main/lorenz.gif)-->
 <!--![Lorenz2](https://github.com/newproyects/newproyects/blob/main/lorenz2.gif)-->
+
+### Desarrollos y simulaciones en los que trabajo:
+- [Física](https://github.com/newproyects/DesarrolloSimulacion/tree/main/Fisica)
+- [Redes Neuronales](https://github.com/newproyects/DesarrolloSimulacion/tree/main/RedesNeuronales)
 
 ### Lenguajes de programación:
 ![Assembler](https://img.shields.io/badge/assemblerx86-%3776AB.svg?style=for-the-badge&logoColor=white&color=000000)
@@ -75,4 +80,3 @@
 ### 🔗 Contacto:
 [<img src = "https://img.shields.io/badge/angel_legarcia-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/angel_legarcia/)
 [<img src="https://img.shields.io/badge/angelgarcia-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/angel-fernando-garc%C3%ADa-n%C3%BA%C3%B1ez-a08aa1275/)
-
