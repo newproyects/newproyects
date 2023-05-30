@@ -13,6 +13,7 @@ Soy estudiante de Licenciatura en Física en la Universidad de Sonora. También 
 ### Desarrollos y simulaciones en los que trabajo:
 - [Física](https://github.com/newproyects/DesarrolloSimulacion/tree/main/Fisica)
 - [Redes Neuronales](https://github.com/newproyects/DesarrolloSimulacion/tree/main/RedesNeuronales)
+- [Geometría](https://github.com/newproyects/DesarrolloSimulacion/tree/main/Gemoteria)
 
 ### Lenguajes de programación:
 ![Assembler](https://img.shields.io/badge/assemblerx86-%3776AB.svg?style=for-the-badge&logoColor=white&color=000000)
