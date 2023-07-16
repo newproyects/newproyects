@@ -52,6 +52,7 @@ Soy estudiante de Licenciatura en Física en la Universidad de Sonora. También 
 [<img src="https://img.shields.io/badge/scipy-%3776AB.svg?style=for-the-badge&logo=scipy&logoColor=white&color=8CAAE6" />](https://scipy.org/)
 [<img src="https://img.shields.io/badge/pandas-%3776AB.svg?style=for-the-badge&logo=pandas&logoColor=white&color=150458" />](https://pandas.pydata.org/)
 [<img src="https://img.shields.io/badge/numpy-%3776AB.svg?style=for-the-badge&logo=numpy&logoColor=white&color=013243" />](https://numpy.org/)
+[<img src="https://img.shields.io/badge/pytorch-%3776AB.svg?style=for-the-badge&logo=pytorch&logoColor=white&color=EE4C2C" />](https://pytorch.org/)
 [<img src="https://img.shields.io/badge/tensorflow-%3776AB.svg?style=for-the-badge&logo=tensorflow&logoColor=white&color=FF6F00" />](https://www.tensorflow.org/?hl=es-419)
 [<img src="https://img.shields.io/badge/keras-%3776AB.svg?style=for-the-badge&logo=keras&logoColor=white&color=D00000" />](https://keras.io/)
 [<img src="https://img.shields.io/badge/scikitlearn-%3776AB.svg?style=for-the-badge&logo=scikitlearn&logoColor=white&color=F7931E" />](https://scikit-learn.org/stable/)
