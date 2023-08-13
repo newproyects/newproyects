@@ -10,10 +10,10 @@ Soy estudiante de Licenciatura en Física en la Universidad de Sonora. También 
 <!--![Lorenz](https://github.com/newproyects/newproyects/blob/main/lorenz.gif)-->
 <!--![Lorenz2](https://github.com/newproyects/newproyects/blob/main/lorenz2.gif)-->
 
-### Desarrollos y simulaciones en los que trabajo:
-- [Física](https://github.com/newproyects/DesarrolloSimulacion/tree/main/Fisica)
-- [Redes Neuronales](https://github.com/newproyects/DesarrolloSimulacion/tree/main/RedesNeuronales)
-- [Geometría](https://github.com/newproyects/DesarrolloSimulacion/tree/main/Geometria)
+## Mis trabajos:
+
+- ### [Desarrollos y simulaciones](https://github.com/newproyects/DesarrolloSimulacion)
+- ### [Solucionarios](https://github.com/newproyects/Solucionarios)
 
 ### Lenguajes de programación:
 <!---![Assembler](https://img.shields.io/badge/assemblerx86-%3776AB.svg?style=for-the-badge&logoColor=white&color=000000)--->
